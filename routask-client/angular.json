@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "routask-client"
+  "defaultProject": "routask-client",
+  "cli": {
+    "analytics": false
+  }
 }
